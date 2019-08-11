@@ -37,6 +37,6 @@ def retrieve_last_element_from_array(array)
 end #this one is correct! so don't change it Lauren
 
 def update_element_from_index(array, index_number, element)
-  
+  array[index_number]=element
 
 end #still needs to be solved!
